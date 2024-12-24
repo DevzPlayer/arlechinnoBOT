@@ -1,0 +1,11 @@
+{
+  "name": "ArlechinnoBOT",
+  "description": "Um bot silencioso e eficiente, tal como Arlecchino, dedicado a transformar suas ideias em figurinhas. Sem rodeios, sem falhas. Apenas resultados. Sirvo àqueles que precisam, e nada mais",
+  "repository": "https://github.com/DevzPlayer/arlechinnoBOT",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
+}
